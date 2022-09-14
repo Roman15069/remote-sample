@@ -2,4 +2,8 @@ git add
 README.md
 index
 2b4b4
+
 <script>/* Yandex Metrika */<script>
+<script>/* Yandex Metrika */<script>
+<script>/* Google Analytics */<script>
+
